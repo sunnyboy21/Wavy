@@ -12,6 +12,7 @@ public class P2_main {
 		if (i > 10)
 			ausdruckb = true;
 
+		System.out.println(i);
 		System.out.println(ausdruckb);
 	}
 
